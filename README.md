@@ -1,0 +1,1 @@
+A curated collection of interactive and insightful Power BI dashboards built using real-world datasets. These dashboards highlight expertise in data cleaning, data modeling, DAX calculations, and interactive visual storytelling to support business decisions across various domains.
